@@ -1,6 +1,6 @@
-<h1> Instagram bot</h1>
+<h1> Desksetup bot</h1>
 
-![Capturar](https://user-images.githubusercontent.com/46490801/84556961-19562200-acfd-11ea-9223-294294112330.PNG)
+![Anotação 2020-06-29 172505](https://user-images.githubusercontent.com/46490801/86036501-5bc57180-ba14-11ea-94ee-5b75ab2fac0e.png)
 
 <h3>Dependencies </h3>
 <ul>
