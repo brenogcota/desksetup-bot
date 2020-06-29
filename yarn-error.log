@@ -1,0 +1,40 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add readline-async
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Python27\;C:\Python27\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Yarn\bin\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Android\Sdk\platform-tools;C:\Android\Sdk\tools;C:\Program Files\Git\cmd;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Dart\dart-sdk\bin;C:\src\flutter\bin;C:\Program Files\Redis\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\Breno\AppData\Local\Microsoft\WindowsApps;C:\Microsoft VS Code\bin;C:\Users\Breno\AppData\Local\Yarn\bin;C:\Android\Sdk\platform-tools;C:\Android\Sdk\tools;C:\Users\Breno\AppData\Roaming\Composer\vendor\bin;C:\tools\dart-sdk\bin;C:\Users\Breno\AppData\Roaming\Pub\Cache\bin;C:\src\flutter\bin;C:\Users\Breno\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Breno\AppData\Roaming\npm;C:\Users\Breno\.dotnet\tools
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  12.16.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'C:\Users\Breno\Desktop\bot-instagram\node_modules\puppeteer\.local-chromium\chrome-win.zip'
+
+npm manifest: 
+  {
+    "name": "bot-instagram",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "prompt": "^1.0.0",
+      "puppeteer": "^3.3.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
