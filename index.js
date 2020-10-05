@@ -3,8 +3,8 @@ const reader = require('readline-sync'); //npm install readline-sync
 
 (async () => {
 
-    const USERNAME = 'dbrno';
-    const PASSWORD = 'brenobrl';
+    const USERNAME = 'YOUR_USER';
+    const PASSWORD = 'YOUR_PASSOWRD';
 
     const TAG = reader.question('Hashtag: ');
     
